@@ -1,4 +1,4 @@
-# fist-app-vue
+# fist-VueApp
 
 ## Project setup
 ```
